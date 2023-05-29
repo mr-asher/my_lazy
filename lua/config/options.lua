@@ -4,3 +4,6 @@
 
 -- Git Blame options
 vim.g.gitblame_enabled = 0
+
+-- Turn off conceallevel
+vim.opt.conceallevel = 0
